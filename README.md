@@ -15,7 +15,6 @@ Alright, so you now know how to use WebAuthn. [But can you hack it](https://essa
 
 This challenge uses the same files and remote server as WebAuthn 1.
 
-When both WebAuthn 1 and WebAuthn 2 are completed, WebAuthn 3 will open up.
 ```
 
 # Hosting
