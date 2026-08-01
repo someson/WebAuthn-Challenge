@@ -5,8 +5,6 @@ Description:
 ```markdown
 Passwords are SO OLD SCHOOL, passwordless authentication is the way of the future! [WebAuthentication](https://w3c.github.io/webauthn/) is a pretty cool spec, so I wrote my website to use it. However, I'm not much of a front-end guy, so all I've left you with is an API. Can you log in?
 
-https://webauthn.youcanhack.me
-
 [server.py]
 ```
 
