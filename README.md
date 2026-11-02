@@ -28,3 +28,7 @@ To stop the challenge:
 ```bash
 docker compose down
 ```
+
+# Solutions
+Working exploits (bash / php / python) for both stages, plus a write-up of the
+vulnerabilities, are in [`solutions/`](solutions/README.md).
